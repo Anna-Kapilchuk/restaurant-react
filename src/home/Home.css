@@ -1,0 +1,16 @@
+.home-img {
+    background-image: url(https://storage.googleapis.com/restaurant-jb/l-intro-1645057933.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 70em;
+}
+
+.col-yel {
+    background-color:  rgb(255, 211, 51);
+    width: 100%;
+    height: 5em;
+}
+
+
+
+/* rgb(255, 204, 0) */

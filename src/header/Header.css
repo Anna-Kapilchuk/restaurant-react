@@ -1,0 +1,19 @@
+
+.in-put {
+    height: 2em;
+    width: 40em;
+    border: none;
+    margin-top: 1.5em;
+    margin-right: 1em;
+}
+.b-search {
+    background: none;
+    border: none;  
+    color: white;
+    cursor: pointer;
+    margin-top: 0.5em;
+}
+
+/* .dfgdf{
+    color: rgb(47, 141, 141);
+} */
